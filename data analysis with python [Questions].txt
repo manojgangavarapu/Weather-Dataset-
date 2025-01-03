@@ -1,0 +1,19 @@
+data analysis with python [weather Dataset]
+Questions 
+1.Find all the unique 'wind speed' values in the data ?
+2.Find the number of times when the 'Weather is exactly Clear ?
+3.Find the number of times when the 'win d speed was exactly 4 km/h' ?
+4. Find out all the Null Values in the data ?
+5. Rename the column name  'Weather of the data frame to Weather ?
+6. What is mean visibility ?
+7. what is the standard Deviation of Pressure in this data ?
+8.what is the variance of Relative humidity in this data ?
+9.find all  instances when snow was recorded ?
+10. Find all instances when wind speed is above 24 and visibility is 25 ?
+11. what is the mean value of each column against each weather condition ?
+12.what is the minimum &maximum value of each column against each weather condition ?
+13. show all the records where weather conditions is fog ?
+14. Find all instances when weather is clear or visibility is above 40 ?
+15. find all instances when :
+A) "wheather is clear" and " relative humidity is greater than 50" 
+B) "visibility is bove 40"
